@@ -25,12 +25,14 @@ public class GateMove : MonoBehaviour
         if(m_ButtonScript1.m_Button_1_Activated == true && m_ButtonScript2.m_Button_2_Activated == false)
         {
             m_Button1ActivatedFirst = true;
+			AudioManager.Instance.m_AudioSource.PlayOneShot(AudioManager.Instance.m_ballHitGood);
 
         }
 
         if (m_ButtonScript1.m_Button_1_Activated == false && m_ButtonScript2.m_Button_2_Activated == true)
         {
             m_Button2ActivatedFirst = true;
+
 
         }
 
@@ -41,6 +43,7 @@ public class GateMove : MonoBehaviour
 
         if (m_Button1ActivatedFirst == false && m_Button2ActivatedFirst == true)
         {
+			AudioManager.Instance.m_AudioSource.PlayOneShot(AudioManager.Instance.m_ballHitBad);
             WrongOrderAndResetColor();
         }
     }
@@ -48,6 +51,7 @@ public class GateMove : MonoBehaviour
     private void DestroyGate()
     {
         Destroy(m_Gate, 2f);
+		AudioManager.Instance.m_AudioSource.PlayOneShot(AudioManager.Instance.m_gateOpened);
     }
 
     private void WrongOrderAndResetColor()
