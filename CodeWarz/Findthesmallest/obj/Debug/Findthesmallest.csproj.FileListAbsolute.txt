@@ -1,0 +1,13 @@
+D:\Users\1710060\Desktop\Session3\FORMATION PRÉPARATOIRE À L'EMPLOI\CodeWars\CodeWarsPratique\Pratique\Findthesmallest\bin\Debug\Findthesmallest.exe.config
+D:\Users\1710060\Desktop\Session3\FORMATION PRÉPARATOIRE À L'EMPLOI\CodeWars\CodeWarsPratique\Pratique\Findthesmallest\bin\Debug\Findthesmallest.exe
+D:\Users\1710060\Desktop\Session3\FORMATION PRÉPARATOIRE À L'EMPLOI\CodeWars\CodeWarsPratique\Pratique\Findthesmallest\bin\Debug\Findthesmallest.pdb
+D:\Users\1710060\Desktop\Session3\FORMATION PRÉPARATOIRE À L'EMPLOI\CodeWars\CodeWarsPratique\Pratique\Findthesmallest\obj\Debug\Findthesmallest.csproj.CoreCompileInputs.cache
+D:\Users\1710060\Desktop\Session3\FORMATION PRÉPARATOIRE À L'EMPLOI\CodeWars\CodeWarsPratique\Pratique\Findthesmallest\obj\Debug\Findthesmallest.exe
+D:\Users\1710060\Desktop\Session3\FORMATION PRÉPARATOIRE À L'EMPLOI\CodeWars\CodeWarsPratique\Pratique\Findthesmallest\obj\Debug\Findthesmallest.pdb
+D:\Users\1710060\Desktop\Session3\FORMATION PRÉPARATOIRE À L'EMPLOI\CodeWars\CodeWarsPratique\Pratique\Findthesmallest\obj\Debug\Findthesmallest.csprojResolveAssemblyReference.cache
+E:\Desktop\CodeWarz\Findthesmallest\bin\Debug\Findthesmallest.exe.config
+E:\Desktop\CodeWarz\Findthesmallest\bin\Debug\Findthesmallest.exe
+E:\Desktop\CodeWarz\Findthesmallest\bin\Debug\Findthesmallest.pdb
+E:\Desktop\CodeWarz\Findthesmallest\obj\Debug\Findthesmallest.csprojResolveAssemblyReference.cache
+E:\Desktop\CodeWarz\Findthesmallest\obj\Debug\Findthesmallest.exe
+E:\Desktop\CodeWarz\Findthesmallest\obj\Debug\Findthesmallest.pdb

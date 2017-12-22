@@ -1,0 +1,7 @@
+D:\Users\1710060\Desktop\Session3\FORMATION PRÉPARATOIRE À L'EMPLOI\CodeWars\CodeWarsPratique\Pratique\intToArray\bin\Debug\intToArray.exe.config
+D:\Users\1710060\Desktop\Session3\FORMATION PRÉPARATOIRE À L'EMPLOI\CodeWars\CodeWarsPratique\Pratique\intToArray\bin\Debug\intToArray.exe
+D:\Users\1710060\Desktop\Session3\FORMATION PRÉPARATOIRE À L'EMPLOI\CodeWars\CodeWarsPratique\Pratique\intToArray\bin\Debug\intToArray.pdb
+D:\Users\1710060\Desktop\Session3\FORMATION PRÉPARATOIRE À L'EMPLOI\CodeWars\CodeWarsPratique\Pratique\intToArray\obj\Debug\intToArray.csproj.CoreCompileInputs.cache
+D:\Users\1710060\Desktop\Session3\FORMATION PRÉPARATOIRE À L'EMPLOI\CodeWars\CodeWarsPratique\Pratique\intToArray\obj\Debug\intToArray.exe
+D:\Users\1710060\Desktop\Session3\FORMATION PRÉPARATOIRE À L'EMPLOI\CodeWars\CodeWarsPratique\Pratique\intToArray\obj\Debug\intToArray.pdb
+D:\Users\1710060\Desktop\Session3\FORMATION PRÉPARATOIRE À L'EMPLOI\CodeWars\CodeWarsPratique\Pratique\intToArray\obj\Debug\intToArray.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+1. La résolution recommandée pour le jeu est la suivante : 16:9
+
+2. Pour bouger la barre il faut appuyer sur les touches A ou LEFT-ARROW pour se déplacer à gauche et la touche D ou RIGHT-ARROW pour aller à droite
+
+3. Pour lancer la balle il faut appuyer sur SPACE
+
+4. La première fois que l'on clique sur le bouton Leaderboard, cela l'affiche alors que si on le clique une deuxième fois, cela update les données du tableau
+
+5. Le mot de passe correspond exactement au nom d'utilisateur.

@@ -1,0 +1,7 @@
+D:\Users\1710060\Desktop\Session3\FORMATION PRÉPARATOIRE À L'EMPLOI\CodeWars\CodeWarsPratique\Pratique\RemoveFirstandLastCharacter\bin\Debug\RemoveFirstandLastCharacter.exe.config
+D:\Users\1710060\Desktop\Session3\FORMATION PRÉPARATOIRE À L'EMPLOI\CodeWars\CodeWarsPratique\Pratique\RemoveFirstandLastCharacter\bin\Debug\RemoveFirstandLastCharacter.exe
+D:\Users\1710060\Desktop\Session3\FORMATION PRÉPARATOIRE À L'EMPLOI\CodeWars\CodeWarsPratique\Pratique\RemoveFirstandLastCharacter\bin\Debug\RemoveFirstandLastCharacter.pdb
+D:\Users\1710060\Desktop\Session3\FORMATION PRÉPARATOIRE À L'EMPLOI\CodeWars\CodeWarsPratique\Pratique\RemoveFirstandLastCharacter\obj\Debug\RemoveFirstandLastCharacter.csprojResolveAssemblyReference.cache
+D:\Users\1710060\Desktop\Session3\FORMATION PRÉPARATOIRE À L'EMPLOI\CodeWars\CodeWarsPratique\Pratique\RemoveFirstandLastCharacter\obj\Debug\RemoveFirstandLastCharacter.csproj.CoreCompileInputs.cache
+D:\Users\1710060\Desktop\Session3\FORMATION PRÉPARATOIRE À L'EMPLOI\CodeWars\CodeWarsPratique\Pratique\RemoveFirstandLastCharacter\obj\Debug\RemoveFirstandLastCharacter.exe
+D:\Users\1710060\Desktop\Session3\FORMATION PRÉPARATOIRE À L'EMPLOI\CodeWars\CodeWarsPratique\Pratique\RemoveFirstandLastCharacter\obj\Debug\RemoveFirstandLastCharacter.pdb

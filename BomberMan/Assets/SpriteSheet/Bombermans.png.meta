@@ -1,0 +1,1205 @@
+fileFormatVersion: 2
+guid: fd12b0be1b3035a45a7a7d078e0d4690
+timeCreated: 1498658514
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bombermans_0
+    21300002: Bombermans_0_DownwalkS
+    21300004: Bombermans_2_DownwalkE
+    21300006: Bombermans_3
+    21300008: Bombermans_4
+    21300010: Bombermans_5
+    21300012: Bombermans_6
+    21300014: Bombermans_7
+    21300016: Bombermans_8
+    21300018: Bombermans_9
+    21300020: Bombermans_10
+    21300022: Bombermans_11
+    21300024: Bombermans_12_SideWalkS
+    21300026: Bombermans_13_SideWalkE
+    21300028: Bombermans_14
+    21300030: Bombermans_15
+    21300032: Bombermans_16
+    21300034: Bombermans_17
+    21300036: Bombermans_18
+    21300038: Bombermans_19
+    21300040: Bombermans_20
+    21300042: Bombermans_21
+    21300044: Bombermans_22
+    21300046: Bombermans_23_Upwalk
+    21300048: Bombermans_24
+    21300050: Bombermans_25
+    21300052: Bombermans_26
+    21300054: Bombermans_27
+    21300056: Bombermans_28
+    21300058: Bombermans_29
+    21300060: Bombermans_30
+    21300062: Bombermans_31
+    21300064: Bombermans_32
+    21300066: Bombermans_33
+    21300068: Bombermans_34
+    21300070: Bombermans_35
+    21300072: Bombermans_36
+    21300074: Bombermans_37
+    21300076: Bombermans_38
+    21300078: Bombermans_39
+    21300080: Bombermans_40
+    21300082: Bombermans_41_DeadS
+    21300084: Bombermans_42
+    21300086: Bombermans_43
+    21300088: Bombermans_44
+    21300090: Bombermans_45
+    21300092: Bombermans_46
+    21300094: Bombermans_47
+    21300096: Bombermans_48
+    21300098: Bombermans_49_DeadE
+    21300100: Bombermans_50
+    21300102: Bombermans_51
+    21300104: Bombermans_52
+    21300106: Bombermans_53
+    21300108: Bombermans_54
+    21300110: Bombermans_55
+    21300112: Bombermans_56_IdleS
+    21300114: Bombermans_57
+    21300116: Bombermans_58
+    21300118: Bombermans_59_IdleE
+    21300120: Bombermans_60
+    21300122: Bombermans_61
+    21300124: Bombermans_62
+    21300126: Bombermans_63
+    21300128: Bombermans_64
+    21300130: Bombermans_65
+    21300132: Bombermans_66
+    21300134: Bombermans_67
+    21300136: Bombermans_68
+    21300138: Bombermans_69
+    21300140: Bombermans_70
+    21300142: Bombermans_71
+    21300144: Bombermans_72
+    21300146: Bombermans_73
+    21300148: Bombermans_74
+    21300150: Bombermans_75
+    21300152: Bombermans_76
+    21300154: Bombermans_77
+    21300156: Bombermans_78
+    21300158: Bombermans_79
+    21300160: Bombermans_1
+    21300162: Bombermans_2
+    21300164: Bombermans_12
+    21300166: Bombermans_13
+    21300168: Bombermans_23
+    21300170: Bombermans_41
+    21300172: Bombermans_49
+    21300174: Bombermans_56
+    21300176: Bombermans_59
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bombermans_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 263
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 263
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 263
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 263
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 263
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 263
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 263
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 263
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 263
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 263
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 263
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 230
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 230
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_13
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 230
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_14
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 230
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_15
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 230
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_16
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 230
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_17
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 230
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_18
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 230
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_19
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 230
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_20
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 230
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_21
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 230
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 197
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_23
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 197
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_24
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 197
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_25
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 197
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_26
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 197
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_27
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 197
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_28
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 197
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_29
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 197
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_30
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 197
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_31
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 197
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_33
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 164
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_34
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 164
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_35
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 164
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_36
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 164
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_37
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 164
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_38
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 164
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_39
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 164
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_40
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 164
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 131
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_42
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 131
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_43
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 131
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_44
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 131
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_45
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 131
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_46
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 131
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_47
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 131
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_48
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 131
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_49
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 131
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_51
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 98
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_52
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 98
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_53
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 98
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_54
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 98
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_55
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 98
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_56
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 98
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_57
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 98
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_58
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 98
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_59
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 98
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_61
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 65
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_62
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 65
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_63
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 65
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_64
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 65
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_65
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 65
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_66
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 65
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_67
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 65
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_68
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 65
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_69
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 65
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_71
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 32
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_72
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 32
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_73
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 32
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_74
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 32
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_75
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 32
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_76
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 32
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_77
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 32
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_78
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 32
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bombermans_79
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 32
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

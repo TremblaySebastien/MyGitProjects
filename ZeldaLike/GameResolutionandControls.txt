@@ -1,0 +1,20 @@
+1792x1120
+
+Pour Bouger:
+ASDW et/ou (Left-Arrow,Right-Arrow,Up-Arrow,Down-Arrow
+
+Pour rammasser des items:
+SPACE
+
+Pour poser une bombe:
+B
+
+Pour attaquer:
+ENTER
+
+Pour Sauvegarder:
+O
+
+Pour Charger:
+P
+

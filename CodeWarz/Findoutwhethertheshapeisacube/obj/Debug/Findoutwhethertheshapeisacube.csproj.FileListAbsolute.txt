@@ -1,0 +1,6 @@
+D:\Users\1710060\Desktop\Session3\FORMATION PRÉPARATOIRE À L'EMPLOI\CodeWars\CodeWarsPratique\Pratique\Findoutwhethertheshapeisacube\bin\Debug\Findoutwhethertheshapeisacube.exe.config
+D:\Users\1710060\Desktop\Session3\FORMATION PRÉPARATOIRE À L'EMPLOI\CodeWars\CodeWarsPratique\Pratique\Findoutwhethertheshapeisacube\bin\Debug\Findoutwhethertheshapeisacube.exe
+D:\Users\1710060\Desktop\Session3\FORMATION PRÉPARATOIRE À L'EMPLOI\CodeWars\CodeWarsPratique\Pratique\Findoutwhethertheshapeisacube\bin\Debug\Findoutwhethertheshapeisacube.pdb
+D:\Users\1710060\Desktop\Session3\FORMATION PRÉPARATOIRE À L'EMPLOI\CodeWars\CodeWarsPratique\Pratique\Findoutwhethertheshapeisacube\obj\Debug\Findoutwhethertheshapeisacube.csproj.CoreCompileInputs.cache
+D:\Users\1710060\Desktop\Session3\FORMATION PRÉPARATOIRE À L'EMPLOI\CodeWars\CodeWarsPratique\Pratique\Findoutwhethertheshapeisacube\obj\Debug\Findoutwhethertheshapeisacube.exe
+D:\Users\1710060\Desktop\Session3\FORMATION PRÉPARATOIRE À L'EMPLOI\CodeWars\CodeWarsPratique\Pratique\Findoutwhethertheshapeisacube\obj\Debug\Findoutwhethertheshapeisacube.pdb

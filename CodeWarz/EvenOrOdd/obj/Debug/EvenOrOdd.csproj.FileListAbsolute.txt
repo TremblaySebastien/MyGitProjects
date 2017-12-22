@@ -1,0 +1,6 @@
+D:\Users\1710060\Desktop\Session3\FORMATION PRÉPARATOIRE À L'EMPLOI\CodeWars\CodeWarsPratique\Pratique\EvenOrOdd\bin\Debug\EvenOrOdd.exe.config
+D:\Users\1710060\Desktop\Session3\FORMATION PRÉPARATOIRE À L'EMPLOI\CodeWars\CodeWarsPratique\Pratique\EvenOrOdd\bin\Debug\EvenOrOdd.exe
+D:\Users\1710060\Desktop\Session3\FORMATION PRÉPARATOIRE À L'EMPLOI\CodeWars\CodeWarsPratique\Pratique\EvenOrOdd\bin\Debug\EvenOrOdd.pdb
+D:\Users\1710060\Desktop\Session3\FORMATION PRÉPARATOIRE À L'EMPLOI\CodeWars\CodeWarsPratique\Pratique\EvenOrOdd\obj\Debug\EvenOrOdd.csproj.CoreCompileInputs.cache
+D:\Users\1710060\Desktop\Session3\FORMATION PRÉPARATOIRE À L'EMPLOI\CodeWars\CodeWarsPratique\Pratique\EvenOrOdd\obj\Debug\EvenOrOdd.exe
+D:\Users\1710060\Desktop\Session3\FORMATION PRÉPARATOIRE À L'EMPLOI\CodeWars\CodeWarsPratique\Pratique\EvenOrOdd\obj\Debug\EvenOrOdd.pdb
